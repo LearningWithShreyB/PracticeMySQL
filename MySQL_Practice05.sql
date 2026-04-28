@@ -1,0 +1,3 @@
+CREATE DATABASE DemoSQL;
+USE DemoSQL;
+CREATE TABLE USERS(Name varchar(30) NOT NULL, ID int auto_increment PRIMARY KEY, Email varchar(50) unique not null, DOB date, Gender enum("Male", "Female", "Others"),Created_At timestamp default current_timestamp);
