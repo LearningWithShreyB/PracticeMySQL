@@ -1,0 +1,3 @@
+SELECT * FROM users WHERE ID IN(1, 7, 9);
+
+SELECT * FROM users WHERE ID NOT IN(1, 7, 9);
