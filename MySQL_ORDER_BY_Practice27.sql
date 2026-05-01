@@ -1,0 +1,5 @@
+SELECT * FROM users ORDER BY date_of_birth;
+
+SELECT * FROM users ORDER BY SALARY DESC;
+
+SELECT * FROM users ORDER BY ID ASC;
