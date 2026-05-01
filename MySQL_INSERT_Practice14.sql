@@ -1,4 +1,3 @@
 DESCRIBE users;
-
 INSERT INTO users VALUES(1, 'sHREY','SHREY01@GMAIL.COM','1999-05-01','Male', default, 'Jaipur');
 SELECT * FROM USERS;
