@@ -1,0 +1,1 @@
+SELECT NAME, GENDER FROM users;
